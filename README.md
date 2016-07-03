@@ -3,6 +3,9 @@ This is the HTML/CSS source file for the website created for my girlfriend Nicol
 This README will also serve as a log for progress in creating this website.
 
 ---
+#####July 2nd, 2016
++ Website will be hosted via Github Project Pages: https://yrsong.github.io/Ray-Meets-Nicole
+
 #####June 27, 2016
 + Working on contents of the website. Each post is expected to take 3-4 days.
 + No updates will be posted until site is complete, or if there are changes to site layout/design/functionality.
