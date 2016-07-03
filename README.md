@@ -1,5 +1,5 @@
-#Anniversary Project :rabbit: :heart: :pig:
-This is the HTML/CSS source file for the website created for my girlfriend Nicole on **July 15th, 2016**, celebrating our first year together. The website has been hosted via [Github Project Pages. -->Link](https://yrsong.github.io/Ray-Meets-Nicole)   
+#Anniversary Project :rabbit: :heart: :pig: [-->Link](https://yrsong.github.io/Ray-Meets-Nicole)   
+This is the HTML/CSS source file for the website created for my girlfriend Nicole on **July 15th, 2016**, celebrating our first year together. The website has been hosted via Github Project Pages.  
 This README will also serve as a log for progress in creating this website.
 
 ---
