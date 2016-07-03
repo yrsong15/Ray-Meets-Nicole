@@ -29,6 +29,13 @@
             text-indent: 5em;
         }
 
+        .caption{
+            text-align: center;
+/*            margin-left:auto;
+            margin-right: auto;*/
+            color: rgb(224, 142, 121);
+        }
+
         img{
             width: 60%;
             margin-top: 20px;
