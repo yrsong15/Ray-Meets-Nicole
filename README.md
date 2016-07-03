@@ -1,5 +1,7 @@
 #Anniversary Project :rabbit: :heart: :pig:
-This is the source file for the website created for my girlfriend Nicole on **July 15th, 2016**, celebrating our first year together. The cover page leads to a gallery, with each picture linking to a detailed letter of our times together:blush:.  
+This is the source file for the website created for my girlfriend Nicole on **July 15th, 2016**, celebrating our first year together. The cover page included a BGM(Stand Together - Rachel Platten) and leads to a gallery, with each picture linking to a detailed letter of our times together:blush:. The page has been hosted via Github Project Pages. [-->Link](https://yrsong.github.io/Ray-Meets-Nicole) 
+
+
 This README will also serve as a log for progress in creating this website.
 
 ---
