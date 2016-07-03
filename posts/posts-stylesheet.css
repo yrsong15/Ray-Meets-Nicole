@@ -1,0 +1,52 @@
+        body{
+            /*background-color: rgb(241, 212, 175);*/
+            /*color: rgb(224, 142, 121);*/
+            background-color: rgb(236, 229, 206);
+            /*color: rgb(241, 212, 175);*/
+            color: rgb(119, 79, 56);
+
+            font-family: 'Roboto', sans-serif;
+            margin-bottom: 100px;
+        }
+
+        .title{
+          color: rgb(224, 142, 121);
+          font-family: 'Indie Flower', cursive;
+          text-align: center;
+        }
+
+        .line{
+            margin-top: 30px;
+            margin-bottom: 30px;
+            border-top: dotted 3px rgb(241, 212, 175);
+            margin-left: 25%;
+            margin-right: 25%;
+        }
+
+        p{
+            margin-left: 10%;
+            margin-right: 10%;
+            text-indent: 5em;
+        }
+
+        img{
+            width: 60%;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            display: block;
+            margin-right: auto;
+            margin-left: auto;
+        }
+
+        .date{
+            color: rgb(224, 142, 121);
+            font-weight: bold;
+            /*font-style: italic;*/
+            /*font-size: 1.2em;*/
+        }
+
+        .hl{
+            color: rgb(224, 142, 121);
+            font-weight: bold;
+
+        }
