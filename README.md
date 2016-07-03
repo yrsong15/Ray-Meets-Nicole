@@ -1,5 +1,5 @@
 #Anniversary Project :rabbit: :heart: :pig:
-This is the source file for the website created for Nicole on **July 15th, 2016**, celebrating our first year together. It is a gallery with each picture linking to a detailed letter.    
+This is the source file for the website created for my girlfriend Nicole on **July 15th, 2016**, celebrating our first year together. The cover page leads to a gallery, with each picture linking to a detailed letter of our times together:blush:. 
 This README will also serve as a log for progress in creating this website.
 
 ---
