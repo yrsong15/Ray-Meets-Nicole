@@ -4,7 +4,8 @@ This README will also serve as a log for progress in creating this website.
 
 ---
 #####July 2nd, 2016
-+ Website will be hosted via Github Project Pages: https://yrsong.github.io/Ray-Meets-Nicole
++ Website will be hosted via Github Project Pages: https://yrsong.github.io/Ray-Meets-Nicole.
++ Purchased [raymeetsnicole.com](www.raymeetsnicole.com) via Google Domain, forwarded to GH Project Page.
 
 #####June 27, 2016
 + Working on contents of the website. Each post is expected to take 3-4 days.
