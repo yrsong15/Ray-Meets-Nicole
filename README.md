@@ -1,8 +1,12 @@
-#Anniversary Project
-This is the source file for the website created for Nicole on July 15th, 2016, celebrating our first year together.   
+#Anniversary Project :rabbit: :heart: :pig: 
+This is the HTML/CSS source file for the website created for my girlfriend Nicole on **July 15th, 2016**, celebrating our first year together. The website has been hosted via Github Project Pages and an external domain, [raymeetsnicole.com](https://yrsong15.github.io/Ray-Meets-Nicole).    
 This README will also serve as a log for progress in creating this website.
 
 ---
+#####July 2nd, 2016
++ Website will be hosted via Github Project Pages: https://yrsong15.github.io/Ray-Meets-Nicole.
++ Purchased [raymeetsnicole.com](http://raymeetsnicole.com) via Google Domain, forwarded to GH Project Page.
+
 #####June 27, 2016
 + Working on contents of the website. Each post is expected to take 3-4 days.
 + No updates will be posted until site is complete, or if there are changes to site layout/design/functionality.
