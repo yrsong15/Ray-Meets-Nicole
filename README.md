@@ -3,6 +3,9 @@ This is the HTML/CSS source file for the website created for my girlfriend Nicol
 This README will also serve as a log for progress in creating this website.
 
 ---
+#####July 12th, 2016
++ Minimal password encryption added to letter.
+
 #####July 2nd, 2016
 + Website will be hosted via Github Project Pages: https://yrsong15.github.io/Ray-Meets-Nicole.
 + Purchased [raymeetsnicole.com](http://raymeetsnicole.com) via Google Domain, forwarded to GH Project Page.
