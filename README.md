@@ -3,7 +3,7 @@ This is the HTML/CSS source file for the website created for my girlfriend Nicol
 This README will also serve as a log for progress in creating this website.
 
 ---
-#####July 12th, 2016
+#####July 15th, 2016
 + Site complete, final result deployed at [raymeetsnicole.com](http://raymeetsnicole.com)
 + DONE!!!!
 
